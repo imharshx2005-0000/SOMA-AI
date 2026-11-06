@@ -1,15 +1,11 @@
 # SOMA AI
 
 Clone and open the project folder in VS Code.
-```
 
-```
 
 **Step 1:** Copy `.env.example` to `.env` and fill in your keys:
 
-```
 
-```
 
 You need 2 API keys:
 
