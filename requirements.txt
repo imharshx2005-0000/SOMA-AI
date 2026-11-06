@@ -1,0 +1,18 @@
+# ── Core ──────────────────────────────
+pydantic-settings>=2.7.1
+python-dotenv>=1.1.0
+
+# ── Gemini OCR ────────────────────────
+google-genai>=1.14.0
+
+# ── Text Splitting ───────────────────
+langchain-text-splitters>=0.3.8
+
+# ── Embeddings ───────────────────────
+sentence-transformers>=3.4.1
+
+# ── Vector Store (Qdrant Cloud) ──────
+qdrant-client>=1.13.3
+
+# ── Utils ────────────────────────────
+Pillow>=11.2.1
