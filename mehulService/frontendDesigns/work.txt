@@ -1,0 +1,10 @@
+*#mehul works*
+- collect some(6-7 sets then select best 3sets) relevant(related our idea) mobile screen UI in figma and share here collaborative link
+
+- we need design mainly 6 pages,
+1.) Login 2.)Create Account 
+3.) Report Dump page(where we scan the medical report using camera and upload it with well defined folder structure and it's should ask for report date before uploading)
+4.) ChatBot(include chat history)
+5.) Insights Dashboard page (mehul plz research for what metrics we should display here like I have in my mind some metrics: first, is a big full width banner with current health score in background timeline graph over the time of months or years labelled. Second, full width small height banner for wrist band stats like battery%, connection status, more. Third, the sub small stats or metrics which grab the attentions here research it for metrics. Fourth, alerting options) 6.) this is profile page and band configuration and settings and logout btn
+
+- work on it, please share uiux figma link ASAP, dump the designs in frontendDesigns
